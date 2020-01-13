@@ -1,2 +1,2 @@
-# HelloTest
-Test Repository for Hello World
+# HelloTest repository blah blah...
+Test Repository for Hello World !
